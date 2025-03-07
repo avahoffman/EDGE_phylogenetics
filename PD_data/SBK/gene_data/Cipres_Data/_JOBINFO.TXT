@@ -1,0 +1,14 @@
+Task\ label=SBK_tree
+Task\ ID=1685030
+Tool=RAXMLHPC2_TGB
+created\ on=2018-12-05 14:16:01.0
+JobHandle=NGBW-JOB-RAXMLHPC2_TGB-C782CEA540FB45D89D6C8780FA439DE9
+resource=comet
+User\ ID=87057
+User\ Name=avahoffman@iplantcollaborative.org
+email=avamariehoffman@gmail.com
+
+Output=(all_outputfiles,*,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=24
+JOBID=20452249

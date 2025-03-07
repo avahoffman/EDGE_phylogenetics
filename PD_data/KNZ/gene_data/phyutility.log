@@ -1,0 +1,10 @@
+starting log: 04/12/18 12:13
+concat
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/KNZ/gene_data/ITS_sequences_KNZ_aligned.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/KNZ/gene_data/rbcL_sequences_KNZ_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/KNZ/gene_data/trnL_sequences_KNZ_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/KNZ/gene_data/matK_sequences_KNZ_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/KNZ/gene_data/TrnL-TrnFspacer_sequences_KNZ_aligned.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/KNZ/gene_data/psbA_sequences_KNZ_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/KNZ/gene_data/ndhF_sequences_KNZ_aligned_trimmed.fasta
+outfile: KNZ_allgenes_nexus.fasta

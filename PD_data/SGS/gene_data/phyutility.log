@@ -1,0 +1,120 @@
+starting log: 27/06/18 11:38
+concat
+in filename: ITS_sequences_SGS_aligned.fasta
+in filename: TrnL-TrnFspacer_sequences_SGS_aligned.fasta
+in filename: TrnL_sequences_SGS_aligned_trimmed.fasta
+in filename: matK_sequences_SGS_aligned_trimmed.fasta
+in filename: ndhF_sequences_SGS_aligned_trimmed.fasta
+in filename: psbA_sequences_SGS_aligned_trimmed.fasta
+in filename: rbcL_sequences_SGS_aligned_trimmed.fasta
+outfile: SGS_allgenes_nexus.fasta
+starting log: 27/06/18 11:40
+concat
+in filename: ITS_sequences_SGS_aligned.fasta
+in filename: TrnL-TrnFspacer_sequences_SGS_aligned.fasta
+in filename: TrnL_sequences_SGS_aligned_trimmed.fasta
+in filename: matK_sequences_SGS_aligned_trimmed.fasta
+in filename: ndhF_sequences_SGS_aligned_trimmed.fasta
+in filename: psbA_sequences_SGS_aligned_trimmed.fasta
+in filename: rbcL_sequences_SGS_aligned_trimmed.fasta
+outfile: SGS_allgenes_nexus.fasta
+starting log: 27/06/18 11:42
+concat
+in filename: ITS_sequences_SGS_aligned.fasta
+in filename: TrnL-TrnFspacer_sequences_SGS_aligned.fasta
+in filename: TrnL_sequences_SGS_aligned_trimmed.fasta
+in filename: matK_sequences_SGS_aligned_trimmed.fasta
+in filename: ndhF_sequences_SGS_aligned_trimmed.fasta
+in filename: psbA_sequences_SGS_aligned_trimmed.fasta
+in filename: rbcL_sequences_SGS_aligned_trimmed.fasta
+outfile: SGS_allgenes_nexus.fasta
+starting log: 27/06/18 11:42
+concat
+in filename: ITS_sequences_SGS_aligned.fasta
+in filename: TrnL-TrnFspacer_sequences_SGS_aligned.fasta
+in filename: TrnL_sequences_SGS_aligned_trimmed.fasta
+in filename: matK_sequences_SGS_aligned_trimmed.fasta
+in filename: ndhF_sequences_SGS_aligned_trimmed.fasta
+in filename: psbA_sequences_SGS_aligned_trimmed.fasta
+in filename: rbcL_sequences_SGS_aligned_trimmed.fasta
+outfile: SGS_allgenes_nexus.fasta
+starting log: 27/06/18 11:44
+concat
+in filename: ITS_sequences_SGS_aligned.fasta
+in filename: TrnL-TrnFspacer_sequences_SGS_aligned.fasta
+in filename: TrnL_sequences_SGS_aligned_trimmed.fasta
+in filename: matK_sequences_SGS_aligned_trimmed.fasta
+in filename: ndhF_sequences_SGS_aligned_trimmed.fasta
+in filename: psbA_sequences_SGS_aligned_trimmed.fasta
+in filename: rbcL_sequences_SGS_aligned_trimmed.fasta
+outfile: SGS_allgenes_nexus.fasta
+starting log: 27/06/18 11:57
+concat
+in filename: ITS_sequences_SGS_aligned.fasta
+in filename: TrnL-TrnFspacer_sequences_SGS_aligned.fasta
+in filename: TrnL_sequences_SGS_aligned_trimmed.fasta
+in filename: matK_sequences_SGS_aligned_trimmed.fasta
+in filename: ndhF_sequences_SGS_aligned_trimmed.fasta
+in filename: psbA_sequences_SGS_aligned_trimmed.fasta
+in filename: rbcL_sequences_SGS_aligned_trimmed.fasta
+outfile: SGS_allgenes_nexus.fasta
+starting log: 27/06/18 12:03
+concat
+in filename: ITS_sequences_SGS_aligned.fasta
+in filename: TrnL-TrnFspacer_sequences_SGS_aligned.fasta
+in filename: TrnL_sequences_SGS_aligned_trimmed.fasta
+in filename: matK_sequences_SGS_aligned_trimmed.fasta
+in filename: ndhF_sequences_SGS_aligned_trimmed.fasta
+in filename: psbA_sequences_SGS_aligned_trimmed.fasta
+in filename: rbcL_sequences_SGS_aligned_trimmed.fasta
+outfile: SGS_allgenes_nexus.fasta
+starting log: 27/06/18 12:08
+concat
+in filename: ITS_sequences_SGS_aligned.fasta
+in filename: TrnL-TrnFspacer_sequences_SGS_aligned.fasta
+in filename: TrnL_sequences_SGS_aligned_trimmed.fasta
+in filename: matK_sequences_SGS_aligned_trimmed.fasta
+in filename: ndhF_sequences_SGS_aligned_trimmed.fasta
+in filename: psbA_sequences_SGS_aligned_trimmed.fasta
+in filename: rbcL_sequences_SGS_aligned_trimmed.fasta
+outfile: SGS_allgenes_nexus.fasta
+starting log: 27/06/18 12:53
+concat
+in filename: ITS_sequences_SGS_aligned.fasta
+in filename: TrnL-TrnFspacer_sequences_SGS_aligned.fasta
+in filename: TrnL_sequences_SGS_aligned_trimmed.fasta
+in filename: matK_sequences_SGS_aligned_trimmed.fasta
+in filename: ndhF_sequences_SGS_aligned_trimmed.fasta
+in filename: psbA_sequences_SGS_aligned_trimmed.fasta
+in filename: rbcL_sequences_SGS_aligned_trimmed.fasta
+outfile: SGS_allgenes_nexus.fasta
+starting log: 30/11/18 02:33
+concat
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SGS/SGS/ITS_sequences_SGS_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SGS/SGS/rbcL_sequences_SGS_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SGS/SGS/TrnL_sequences_SGS_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SGS/SGS/matK_sequences_SGS_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SGS/SGS/TrnL-TrnFspacer_sequences_SGS_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SGS/SGS/psbA_sequences_SGS_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SGS/SGS/ndhF_sequences_SGS_aligned_trimmed.fasta
+outfile: SGS_allgenes_nexus.fasta
+starting log: 03/12/18 11:12
+concat
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SGS/SGS/ITS_sequences_SGS_aligned.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SGS/SGS/rbcL_sequences_SGS_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SGS/SGS/TrnL_sequences_SGS_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SGS/SGS/matK_sequences_SGS_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SGS/SGS/TrnL-TrnFspacer_sequences_SGS_aligned.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SGS/SGS/psbA_sequences_SGS_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SGS/SGS/ndhF_sequences_SGS_aligned_trimmed.fasta
+outfile: SGS_allgenes_nexus.fasta
+starting log: 03/12/18 11:14
+concat
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SGS/gene_data/ITS_sequences_SGS_aligned.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SGS/gene_data/rbcL_sequences_SGS_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SGS/gene_data/TrnL_sequences_SGS_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SGS/gene_data/matK_sequences_SGS_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SGS/gene_data/TrnL-TrnFspacer_sequences_SGS_aligned.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SGS/gene_data/psbA_sequences_SGS_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SGS/gene_data/ndhF_sequences_SGS_aligned_trimmed.fasta
+outfile: SGS_allgenes_nexus.fasta

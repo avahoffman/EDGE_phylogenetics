@@ -1,0 +1,14 @@
+Task\ label=HYS_tree
+Task\ ID=1683838
+Tool=RAXMLHPC2_TGB
+created\ on=2018-12-04 16:51:06.0
+JobHandle=NGBW-JOB-RAXMLHPC2_TGB-2C00C43A20D24298ABB3617D642C1182
+resource=comet
+User\ ID=87057
+User\ Name=avahoffman@iplantcollaborative.org
+email=avamariehoffman@gmail.com
+
+Output=(all_outputfiles,*,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=24
+JOBID=20430725

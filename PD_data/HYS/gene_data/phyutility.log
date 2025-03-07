@@ -1,0 +1,10 @@
+starting log: 04/12/18 05:49
+concat
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/HYS/gene_data/ITS_sequences_HYS_aligned.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/HYS/gene_data/rbcL_sequences_HYS_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/HYS/gene_data/TrnL_sequences_HYS_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/HYS/gene_data/matK_sequences_HYS_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/HYS/gene_data/TrnL-TrnFspacer_sequences_HYS_aligned.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/HYS/gene_data/psbA_sequences_HYS_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/HYS/gene_data/ndhF_sequences_HYS_aligned_trimmed.fasta
+outfile: HYS_allgenes_nexus.fasta

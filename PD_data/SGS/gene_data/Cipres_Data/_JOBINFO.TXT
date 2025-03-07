@@ -1,0 +1,14 @@
+Task\ label=SGS_tree_1
+Task\ ID=1682736
+Tool=RAXMLHPC2_TGB
+created\ on=2018-12-03 22:17:34.0
+JobHandle=NGBW-JOB-RAXMLHPC2_TGB-A632BEA3F2534CA1837B732A9C6020F9
+resource=comet
+User\ ID=87057
+User\ Name=avahoffman@iplantcollaborative.org
+email=avamariehoffman@gmail.com
+
+Output=(all_outputfiles,*,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=24
+JOBID=20419089

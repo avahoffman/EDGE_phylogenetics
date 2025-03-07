@@ -1,0 +1,14 @@
+Task\ label=HPG_tree_1
+Task\ ID=1683694
+Tool=RAXMLHPC2_TGB
+created\ on=2018-12-04 13:42:58.0
+JobHandle=NGBW-JOB-RAXMLHPC2_TGB-F97761A7093B4E2F8A36C5E872DD6180
+resource=comet
+User\ ID=87057
+User\ Name=avahoffman@iplantcollaborative.org
+email=avamariehoffman@gmail.com
+
+Output=(all_outputfiles,*,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=24
+JOBID=20427710

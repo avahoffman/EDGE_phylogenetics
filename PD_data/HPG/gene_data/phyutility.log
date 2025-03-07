@@ -1,0 +1,20 @@
+starting log: 04/12/18 02:32
+concat
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/HPG/gene_data/ITS_sequences_HPG_aligned.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/HPG/gene_data/rbcL_sequences_HPG_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/HPG/gene_data/TrnL_sequences_HPG_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/HPG/gene_data/matK_sequences_HPG_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/HPG/gene_data/TrnL-TrnFspacer_sequences_HPG_aligned.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/HPG/gene_data/psbA_sequences_HPG_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/HPG/gene_data/ndhF_sequences_HPG_aligned_trimmed.fasta
+outfile: HPG_allgenes_nexus.fasta
+starting log: 04/12/18 02:42
+concat
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/HPG/gene_data/ITS_sequences_HPG_aligned.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/HPG/gene_data/rbcL_sequences_HPG_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/HPG/gene_data/TrnL_sequences_HPG_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/HPG/gene_data/matK_sequences_HPG_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/HPG/gene_data/TrnL-TrnFspacer_sequences_HPG_aligned.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/HPG/gene_data/psbA_sequences_HPG_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/HPG/gene_data/ndhF_sequences_HPG_aligned_trimmed.fasta
+outfile: HPG_allgenes_nexus.fasta

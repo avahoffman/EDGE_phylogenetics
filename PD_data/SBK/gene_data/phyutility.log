@@ -1,0 +1,19 @@
+starting log: 05/12/18 03:10
+concat
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SBK/gene_data/ITS_sequences_SBK_aligned.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SBK/gene_data/rbcL_sequences_SBK_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SBK/gene_data/TrnL_sequences_SBK_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SBK/gene_data/matK_sequences_SBK_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SBK/gene_data/TrnL-TrnFspacer_sequences_SBK_aligned.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SBK/gene_data/psbA_sequences_SBK_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SBK/gene_data/ndhF_sequences_SBK_aligned_trimmed.fasta
+starting log: 05/12/18 03:12
+concat
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SBK/gene_data/ITS_sequences_SBK_aligned.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SBK/gene_data/rbcL_sequences_SBK_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SBK/gene_data/TrnL_sequences_SBK_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SBK/gene_data/matK_sequences_SBK_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SBK/gene_data/TrnL-TrnFspacer_sequences_SBK_aligned.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SBK/gene_data/psbA_sequences_SBK_aligned_trimmed.fasta
+in filename: /Users/avahoffman/Dropbox/Research/Phylogenetic_functional_Rob_project/PD_data/SBK/gene_data/ndhF_sequences_SBK_aligned_trimmed.fasta
+outfile: SBK_allgenes_nexus.fasta
