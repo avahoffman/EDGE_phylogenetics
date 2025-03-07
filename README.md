@@ -2,7 +2,9 @@
 
 Phylogenetics data and code for the 2019 publication in Journal of Ecology:  https://doi.org/10.1111/1365-2745.13252
 
-1) Gather all species and genes.. make sure that all species share at least one gene (see SGS_gene_availability_EDGE.xlsx). You may be required to search other names (outdated, synonyms - although GenBank is generally good with this).
+### Step 1
+
+Gather all species and genes.. make sure that all species share at least one gene (see SGS_gene_availability_EDGE.xlsx). You may be required to search other names (outdated, synonyms - although GenBank is generally good with this).
 
 Genes used:
 - internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2
@@ -13,7 +15,9 @@ Genes used:
 - photosystem II protein D1 (psbA) gene
 - NADH dehydrogenase subunit F (ndhF) gene
 
-2) Format genes.
+### Step 2
+
+Format genes.
 
 - Make sure .fasta is correctly formatted and species names are the same
 - Remove any species missing sequences
@@ -23,7 +27,9 @@ Genes used:
 - Use GBlocks to trim extra stuff off ends: http://molevol.cmima.csic.es/castresana/Gblocks_server.html. Do not trim on noncoding genes (ITSs, TrnL-TrnF spacer)
 - Fill in any missing species with length of trimmed gene. Use dashes (easy to do in excel with =rept("-",701) for example)
 
-3) combine all genes, use phyutility : https://code.google.com/archive/p/phyutility/
+### Step 3
+
+Combine all genes, use phyutility : https://code.google.com/archive/p/phyutility/
 
 E.g. :
 
@@ -31,9 +37,13 @@ E.g. :
 
 outputs a nexus file, may need to reformat for other applications.
 
-4) Format as .fasta using custom python script (nexus.to.fasta.py). Make sure to edit directories in script as needed.
+### Step 4
 
-5) Use CIPRES and RAxML to develop best final tree. https://www.phylo.org/portal2/task!display.action?id=1680048
+Format as .fasta using custom python script (nexus.to.fasta.py). Make sure to edit directories in script as needed.
+
+### Step 5
+
+Use CIPRES and RAxML to develop best final tree. https://www.phylo.org/portal2/task!display.action?id=1680048
 
 Once you get output from Cipres, look at the ‘best tree’ file (e.g., RAxML_bestTree.result) add this to the top of the file:
 
@@ -46,4 +56,6 @@ And this to the bottom:
 
 end;
 
-6) Process remainder using R (see script)
+### Step 6
+
+Process remainder using R (see script)
